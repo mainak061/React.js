@@ -7,7 +7,7 @@ function App() {
   return (
 
 <div className="fixed inset-0 overflow-hidden font-libertinus text-white" style={{ backgroundColor: color }}>
-<h1 className='text-center text-4xl text'>
+<h1 className='text-center text-4xl text py-8'>
   Back-Ground Colour Changer
 </h1>
 
