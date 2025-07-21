@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-orange-600 p-4 text-white text-lg hover:text-black '>React Router</h1>
+     React router
     </>
   )
 }
